@@ -9,7 +9,7 @@ export default function Header() {
             buttonTitle: "Home"
         },
         {
-            href: "jakiśtam",
+            href: "/about-us",
             buttonTitle: "O nas"
         },
         {
@@ -17,7 +17,7 @@ export default function Header() {
             buttonTitle: "Blog"
         },
         {
-            href: "jakiśtam",
+            href: "/own-desert",
             buttonTitle: "Własny deser"
         },
     ]
